@@ -5,16 +5,16 @@
 	"store_url": "https://apps.apple.com/app/co.puzly.dhko",
 	"other_languages": [
 		{
-			"name": "Four-Letter Word Game",
+			"name": "Four-Letter Word Puzzle",
 			"language": "English",
-			"url": "https://apps.apple.com/app/co.puzly.folwg",
+			"url": "https://apps.apple.com/app/co.puzly.folwp",
 			"status": "beta"
 		},
 		{
 			"name": "Төрт Тамгалуу Сөз Оюну",
 			"language": "Кыргызча",
 			"url": "https://apps.apple.com/app/co.puzly.ttso",
-			"status": "released"
+			"status": "beta"
 		}
 	],
 	"other_games": [
@@ -22,13 +22,13 @@
 			"name": "Altı Harfli Kelime Oyunu",
 			"language": "Türkçe",
 			"url": "https://apps.apple.com/app/co.puzly.ahko",
-			"status": "released"
+			"status": "beta"
 		},
 		{
 			"name": "Beş Harfli Kelime Oyunu",
 			"language": "Türkçe",
 			"url": "https://apps.apple.com/app/co.puzly.bhko",
-			"status": "released"
+			"status": "beta"
 		}
 	],
 	"custom_ads": {},
